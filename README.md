@@ -1,4 +1,4 @@
-# NLP_Projects
+# NLP_Project
 • Utilized re3d dataset in CoNLL format. Employed visualization tools (dashboards, word clouds) to analyze word and 
 tag distribution for each entity.
 • Performed cleanup of Arabic characters using utf-8 encoding. Ensured dataset integrity before model development.
